@@ -1,0 +1,18 @@
+:root {
+    --background-color: #F1ECE6;
+    --text-color: black;
+    --btn-color: #D98326;
+    --add-btn-color: #76B7CD;
+    --categories-color:#f3f3f3; 
+    --main-color:white ;
+    --header-color:#F1ECE6;
+}
+[data-theme='dark'] {
+    --background-color:white;
+    --text-color: #f3f3f3;
+    --btn-color: #D98326;
+    --add-btn-color: #76B7CD;
+    --categories-color:#f3f3f3;
+    --main-color:black;
+    --header-color:black;
+}

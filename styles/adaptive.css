@@ -1,0 +1,47 @@
+
+@media (max-width:800px){
+
+    .categories-inner,.add-task,.task-inner,.empty-list{
+        font-size: 20px;  
+    }
+    
+    .empty-list{
+        font-size: 22px;
+        height: 60px;
+    }
+  
+}
+
+
+
+
+@media (max-width:550px){
+    .categories-inner,.add-task,.task-inner,.empty-list{
+          font-size: 16px;  
+    }
+
+    .header-img{
+        width:50%;
+        height: 50%;
+    }
+    .toggle-btn{
+        height: 25%;
+        text-transform: none;
+    }
+    .img{
+        width: 10%;
+        height: 10%;
+        padding-left: 15px;
+    }
+    .task-text{
+        width: 70%;
+    }
+    .clear-btn-img{
+        height: 65%;
+        width: 130px;
+    }
+    .empty-list{
+        font-size: 16px;
+        height: 40px;
+    }
+}
